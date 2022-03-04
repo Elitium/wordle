@@ -1,0 +1,8 @@
+.calendar-container {
+  position: relative;
+}
+
+.calendar {
+  font-family: "Inter", sans-serif;
+  width: 320px;
+}
